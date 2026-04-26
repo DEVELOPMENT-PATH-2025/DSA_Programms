@@ -1,0 +1,1 @@
+//Write a program that creates and populates a queue with values. Then print the total number of elements that are divisible by 3 but not by 5.

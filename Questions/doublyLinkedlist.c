@@ -1,0 +1,1 @@
+//Write a program that counts the total number of nodes in a doubly-linked list. Counting should begin from the last node only and not from the first node.

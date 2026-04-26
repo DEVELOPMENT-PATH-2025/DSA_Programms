@@ -1,0 +1,1 @@
+//Write a program that deletes a node of a linear linked list with a negative value.
